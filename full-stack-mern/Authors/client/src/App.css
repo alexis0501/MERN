@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.text-purple{
+  color: rebeccapurple;
+}
+
+.container{
+  border: 1px solid grey;
+  height: 200px;
+  width: 190px;
+  margin-left: 43%;
+}
+
+.margin-left{
+  margin-left: 43%;
+}
