@@ -1,0 +1,28 @@
+.d-flex{
+  display: flex;
+}
+
+.center{
+  text-align: center;
+}
+
+.margin-left{
+  margin-left: 650px;
+}
+
+.add-btn{
+  height: 20px;
+  width: 80px; 
+  background-color: skyblue;
+  border: none;
+  border-radius: 20%;
+}
+
+.delete-btn{
+  height: 20px;
+  width: 80px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 20%;
+}
